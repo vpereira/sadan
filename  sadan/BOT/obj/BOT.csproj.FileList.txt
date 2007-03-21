@@ -1,0 +1,10 @@
+bin\Release\BOT.exe
+bin\Release\BOT.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BOT.exe
+obj\Release\BOT.pdb
+bin\Debug\BOT.exe
+bin\Debug\BOT.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BOT.exe
+obj\Debug\BOT.pdb
