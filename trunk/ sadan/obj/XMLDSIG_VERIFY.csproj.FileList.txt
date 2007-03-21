@@ -1,0 +1,10 @@
+bin\Release\XMLDSIG_VERIFY.exe
+bin\Release\XMLDSIG_VERIFY.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\XMLDSIG_VERIFY.exe
+obj\Release\XMLDSIG_VERIFY.pdb
+bin\Debug\XMLDSIG_VERIFY.exe
+bin\Debug\XMLDSIG_VERIFY.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XMLDSIG_VERIFY.exe
+obj\Debug\XMLDSIG_VERIFY.pdb
