@@ -1,0 +1,10 @@
+obj\Release\XMLPARSE.exe
+obj\Release\XMLPARSE.pdb
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\XMLPARSE.exe
+bin\Release\XMLPARSE.pdb
+bin\Debug\XMLPARSE.exe
+bin\Debug\XMLPARSE.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XMLPARSE.exe
+obj\Debug\XMLPARSE.pdb
