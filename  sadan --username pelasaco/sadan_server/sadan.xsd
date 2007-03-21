@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="ssd_message_schema" targetNamespace="http://vp.railsplayground.net/sadan.xsd" elementFormDefault="qualified" xmlns=""http://vp.railsplayground.net/sadan.xsd" xmlns:mstns=""http://vp.railsplayground.net/sadan.xsd"" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="message">
+<xs:complexType>
+ <xs:sequence>
+  <xs:element name="Command" type="xs:string">
+  <xs:element name="JobID" type="xs:integer" />
+  <xs:element name="payload" type="xs:string" /> 
+ <xs/sequence>
+</xs:complexType>
+</xs:schema>
