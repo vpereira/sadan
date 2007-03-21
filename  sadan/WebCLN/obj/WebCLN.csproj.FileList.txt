@@ -1,0 +1,10 @@
+obj\Release\WebCLN.exe
+obj\Release\WebCLN.pdb
+bin\Release\WebCLN.exe
+bin\Release\WebCLN.pdb
+obj\Release\ResolveAssemblyReference.cache
+bin\Debug\WebCLN.exe
+bin\Debug\WebCLN.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WebCLN.exe
+obj\Debug\WebCLN.pdb
