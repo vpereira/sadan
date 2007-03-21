@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message xmlns="http://vp.railsplayground.net/ssd_message_schema.xsd">
+  <command> script </command>
+  <jobid> 31337 </jobid>
+  <payload>
+		wscript.echo "OLA MAMAE"
+	</payload>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>5d2Vy3bHU4e6LKO0iziSWTNY89E=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>bT29CQevqA8YaT4x7aPsjSUdtv+LvQ17rlpV2OoLQQ7dMhjGO2Mf1kno9JdDv4U6TtZAYqWesWKStP6ELnFpsV3dXq+BRjugvkyYOz3dxYWJm+CJot7cKP2GaZwaG3wt8TNpNCyGeGHiI1QznNYWNLX+5M2ah3jT423V6l8mVi4=</SignatureValue>
+  </Signature>
+</message>

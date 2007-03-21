@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<message xmlns="http://vp.railsplayground.net/ssd_message_schema.xsd">
+	<command> script </command>
+	<jobid> 31337 </jobid>
+	<payload>
+		wscript.echo "OLA MAMAE"
+	</payload>
+</message>
