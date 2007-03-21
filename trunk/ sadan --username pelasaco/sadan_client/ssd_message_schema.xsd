@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ssd_message_schema" targetNamespace="http://vp.railsplayground.net/ssd_message_schema.xsd" elementFormDefault="qualified" xmlns="http://vp.railsplayground.net/ssd_message_schema.xsd" xmlns:mstns="http://vp.railsplayground.net/ssd_message_schema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="message">
+    <xs:complexType>
+      <xs:sequence>
+          <xs:element name="jobid" type="xs:boolean" />
+          <xs:element name="command" type="xs:string" />
+        <xs:element name="payload" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
