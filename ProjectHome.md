@@ -1,0 +1,1 @@
+That's a projet to try and learn about Sype4COMlib and the ways that we can use it
